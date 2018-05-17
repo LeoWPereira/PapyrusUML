@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_g7VQMFd4EeiYc8s90oKtBg" name="IsoPad-EmbeddedLinux">
+  <packagedElement xmi:type="uml:Interaction" xmi:id="_g-ggAFd4EeiYc8s90oKtBg" name="Interaction1"/>
+  <packagedElement xmi:type="uml:Activity" xmi:id="_g_FHwFd4EeiYc8s90oKtBg" name="Activity1"/>
+  <packagedElement xmi:type="uml:StateMachine" xmi:id="_g_R8EFd4EeiYc8s90oKtBg" name="StateMachine1">
+    <region xmi:type="uml:Region" xmi:id="_g_eJUFd4EeiYc8s90oKtBg" name="Region1"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Node" xmi:id="_T6kEkFekEeipB9fdkKPwoA" name="BuildSystem">
+    <nestedClassifier xmi:type="uml:Artifact" xmi:id="_jF-pYFelEeipB9fdkKPwoA" name="Cross-Toolchain"/>
+    <nestedClassifier xmi:type="uml:Artifact" xmi:id="_lPtWAFelEeipB9fdkKPwoA" name="Root Filesystem"/>
+    <nestedClassifier xmi:type="uml:Artifact" xmi:id="_nAfXIFelEeipB9fdkKPwoA" name="Linux Kernel Image"/>
+    <nestedClassifier xmi:type="uml:Artifact" xmi:id="_rlJ1IFelEeipB9fdkKPwoA" name="Bootloader"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Node" xmi:id="_Z0facFemEeipB9fdkKPwoA" name="IsoPad">
+    <nestedClassifier xmi:type="uml:Artifact" xmi:id="_yQNF8FenEeipB9fdkKPwoA" name="Configurations"/>
+    <nestedClassifier xmi:type="uml:Artifact" xmi:id="_3vaEIFeoEeipB9fdkKPwoA" name="BaseProgram"/>
+    <nestedClassifier xmi:type="uml:Artifact" xmi:id="_6K2L0FeoEeipB9fdkKPwoA" name="IsoSpread"/>
+    <nestedClassifier xmi:type="uml:Artifact" xmi:id="_7JPGsFeoEeipB9fdkKPwoA" name="IsoSpray"/>
+    <nestedClassifier xmi:type="uml:Artifact" xmi:id="_8GR9wFeoEeipB9fdkKPwoA" name="IsoSeed"/>
+    <nestedClassifier xmi:type="uml:Artifact" xmi:id="_Wq2ooFepEeipB9fdkKPwoA" name="IsoCrop"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Node" xmi:id="_6LUX0FemEeipB9fdkKPwoA" name="Libraries"/>
+</uml:Model>

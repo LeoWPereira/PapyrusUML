@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_LEd1EFg9EeipB9fdkKPwoA" name="Connectivity">
+  <packageImport xmi:type="uml:PackageImport" xmi:id="_LG5eAFg9EeipB9fdkKPwoA">
+    <importedPackage xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#_0"/>
+  </packageImport>
+  <packagedElement xmi:type="uml:Node" xmi:id="_us7osFhFEeipB9fdkKPwoA" name="LinkLabs"/>
+  <packagedElement xmi:type="uml:Node" xmi:id="_vemWMFhFEeipB9fdkKPwoA" name="NMEA"/>
+  <packagedElement xmi:type="uml:Node" xmi:id="_zkl7MFhFEeipB9fdkKPwoA" name="SATEL"/>
+</uml:Model>

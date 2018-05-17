@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_9xdCsFhDEeipB9fdkKPwoA" name="Files">
+  <packageImport xmi:type="uml:PackageImport" xmi:id="_9z7H4FhDEeipB9fdkKPwoA">
+    <importedPackage xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#_0"/>
+  </packageImport>
+  <packagedElement xmi:type="uml:Node" xmi:id="_8wFP0FhEEeipB9fdkKPwoA" name="Binary"/>
+  <packagedElement xmi:type="uml:Node" xmi:id="_9pdH0FhEEeipB9fdkKPwoA" name="IntelHex"/>
+  <packagedElement xmi:type="uml:Node" xmi:id="_-acf4FhEEeipB9fdkKPwoA" name="Json"/>
+  <packagedElement xmi:type="uml:Node" xmi:id="__w5VcFhEEeipB9fdkKPwoA" name="XML"/>
+  <packagedElement xmi:type="uml:Node" xmi:id="_AVM8YFhFEeipB9fdkKPwoA" name="NVG"/>
+</uml:Model>

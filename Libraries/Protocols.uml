@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_GsQ7MFg8EeipB9fdkKPwoA" name="Protocols">
+  <packageImport xmi:type="uml:PackageImport" xmi:id="_GvSaAFg8EeipB9fdkKPwoA">
+    <importedPackage xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#_0"/>
+  </packageImport>
+  <packagedElement xmi:type="uml:Node" xmi:id="_MeKhAFg_EeipB9fdkKPwoA" name="J1939">
+    <nestedClassifier xmi:type="uml:Artifact" xmi:id="_PL8gcFhAEeipB9fdkKPwoA" name="Class Diagram"/>
+    <nestedClassifier xmi:type="uml:Artifact" xmi:id="_QHFTAFhAEeipB9fdkKPwoA" name="State Machine Diagram"/>
+    <nestedClassifier xmi:type="uml:Artifact" xmi:id="_RLA1MFhAEeipB9fdkKPwoA" name="Use Case Diagram"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Node" xmi:id="_OGi0EFg_EeipB9fdkKPwoA" name="IsoBus"/>
+  <packagedElement xmi:type="uml:Node" xmi:id="_mJpAsFg_EeipB9fdkKPwoA" name="EtherCAT"/>
+  <packagedElement xmi:type="uml:StateMachine" xmi:id="_J0DOsFhAEeipB9fdkKPwoA" name="StateMachine5">
+    <region xmi:type="uml:Region" xmi:id="_KgEnMFhAEeipB9fdkKPwoA" name="Region1"/>
+  </packagedElement>
+</uml:Model>

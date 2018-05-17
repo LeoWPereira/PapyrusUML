@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:style="http://www.eclipse.org/papyrus/infra/gmfdiag/style" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_SuqSIFekEeipB9fdkKPwoA" type="PapyrusUMLDeploymentDiagram" name="Deployment Diagram" measurementUnit="Pixel">
+  <children xmi:type="notation:Shape" xmi:id="_T7R2QFekEeipB9fdkKPwoA" type="Node_Shape" fontName="Segoe UI" fontHeight="14" bold="true" lineColor="0">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_ydkT4FekEeipB9fdkKPwoA" source="PapyrusCSSForceValue">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_ydk68FekEeipB9fdkKPwoA" key="italic" value="true"/>
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_ydk68VekEeipB9fdkKPwoA" key="fontColor" value="true"/>
+    </eAnnotations>
+    <children xmi:type="notation:DecorationNode" xmi:id="_T7bAMFekEeipB9fdkKPwoA" type="Node_NameLabel"/>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_T7bAMVekEeipB9fdkKPwoA" type="Node_NestedNodeCompartment">
+      <children xmi:type="notation:Shape" xmi:id="_jGAekFelEeipB9fdkKPwoA" type="Artifact_Shape_CCN" fontName="Segoe UI" bold="true">
+        <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_5Zy-0FenEeipB9fdkKPwoA" source="PapyrusCSSForceValue">
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_5Zy-0VenEeipB9fdkKPwoA" key="fontHeight" value="true"/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_5Z0M8FenEeipB9fdkKPwoA" key="italic" value="true"/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_5Z0M9VenEeipB9fdkKPwoA" key="fontColor" value="true"/>
+        </eAnnotations>
+        <children xmi:type="notation:DecorationNode" xmi:id="_jGBFoFelEeipB9fdkKPwoA" type="Artifact_NameLabel_CCN"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_jGBFoVelEeipB9fdkKPwoA" type="Artifact_FloatingNameLabel_CCN">
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_jGBFolelEeipB9fdkKPwoA" x="25"/>
+        </children>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_jGBFo1elEeipB9fdkKPwoA" type="Artifact_NestedArtifactCompartment_CCN">
+          <styles xmi:type="notation:TitleStyle" xmi:id="_jGBFpFelEeipB9fdkKPwoA"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_jGBFpVelEeipB9fdkKPwoA"/>
+        </children>
+        <element xmi:type="uml:Artifact" href="IsoPad-EmbeddedLinux.uml#_jF-pYFelEeipB9fdkKPwoA"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_jGAekVelEeipB9fdkKPwoA" x="15" y="108"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_lPvyQFelEeipB9fdkKPwoA" type="Artifact_Shape_CCN" fontName="Segoe UI" bold="true">
+        <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_5Zy-0lenEeipB9fdkKPwoA" source="PapyrusCSSForceValue">
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_5Zy-01enEeipB9fdkKPwoA" key="fontHeight" value="true"/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_5Z0M8VenEeipB9fdkKPwoA" key="italic" value="true"/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_5Z0M9lenEeipB9fdkKPwoA" key="fontColor" value="true"/>
+        </eAnnotations>
+        <children xmi:type="notation:DecorationNode" xmi:id="_lPwZUFelEeipB9fdkKPwoA" type="Artifact_NameLabel_CCN"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_lPwZUVelEeipB9fdkKPwoA" type="Artifact_FloatingNameLabel_CCN">
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_lPwZUlelEeipB9fdkKPwoA" x="25"/>
+        </children>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_lPwZU1elEeipB9fdkKPwoA" type="Artifact_NestedArtifactCompartment_CCN">
+          <styles xmi:type="notation:TitleStyle" xmi:id="_lPwZVFelEeipB9fdkKPwoA"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_lPwZVVelEeipB9fdkKPwoA"/>
+        </children>
+        <element xmi:type="uml:Artifact" href="IsoPad-EmbeddedLinux.uml#_lPtWAFelEeipB9fdkKPwoA"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_lPvyQVelEeipB9fdkKPwoA" x="295" y="108"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_nAjokFelEeipB9fdkKPwoA" type="Artifact_Shape_CCN" fontName="Segoe UI" bold="true">
+        <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_5Zzl4lenEeipB9fdkKPwoA" source="PapyrusCSSForceValue">
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_5Zzl41enEeipB9fdkKPwoA" key="fontHeight" value="true"/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_5Z0M81enEeipB9fdkKPwoA" key="italic" value="true"/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_5Z00AVenEeipB9fdkKPwoA" key="fontColor" value="true"/>
+        </eAnnotations>
+        <children xmi:type="notation:DecorationNode" xmi:id="_nAjoklelEeipB9fdkKPwoA" type="Artifact_NameLabel_CCN"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_nAjok1elEeipB9fdkKPwoA" type="Artifact_FloatingNameLabel_CCN">
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_nAkPoFelEeipB9fdkKPwoA" x="25"/>
+        </children>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_nAkPoVelEeipB9fdkKPwoA" type="Artifact_NestedArtifactCompartment_CCN">
+          <styles xmi:type="notation:TitleStyle" xmi:id="_nAkPolelEeipB9fdkKPwoA"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_nAkPo1elEeipB9fdkKPwoA"/>
+        </children>
+        <element xmi:type="uml:Artifact" href="IsoPad-EmbeddedLinux.uml#_nAfXIFelEeipB9fdkKPwoA"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_nAjokVelEeipB9fdkKPwoA" x="555" y="108"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_rlOGkFelEeipB9fdkKPwoA" type="Artifact_Shape_CCN" fontName="Segoe UI" bold="true">
+        <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_5Zzl4FenEeipB9fdkKPwoA" source="PapyrusCSSForceValue">
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_5Zzl4VenEeipB9fdkKPwoA" key="fontHeight" value="true"/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_5Z0M8lenEeipB9fdkKPwoA" key="italic" value="true"/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_5Z00AFenEeipB9fdkKPwoA" key="fontColor" value="true"/>
+        </eAnnotations>
+        <children xmi:type="notation:DecorationNode" xmi:id="_rlOGklelEeipB9fdkKPwoA" type="Artifact_NameLabel_CCN"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_rlOGk1elEeipB9fdkKPwoA" type="Artifact_FloatingNameLabel_CCN">
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_rlOGlFelEeipB9fdkKPwoA" x="25"/>
+        </children>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_rlOGlVelEeipB9fdkKPwoA" type="Artifact_NestedArtifactCompartment_CCN">
+          <styles xmi:type="notation:TitleStyle" xmi:id="_rlOGllelEeipB9fdkKPwoA"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_rlOGl1elEeipB9fdkKPwoA"/>
+        </children>
+        <element xmi:type="uml:Artifact" href="IsoPad-EmbeddedLinux.uml#_rlJ1IFelEeipB9fdkKPwoA"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_rlOGkVelEeipB9fdkKPwoA" x="295" y="8"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_T7bAMlekEeipB9fdkKPwoA"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_T7bAM1ekEeipB9fdkKPwoA"/>
+    </children>
+    <element xmi:type="uml:Node" href="IsoPad-EmbeddedLinux.uml#_T6kEkFekEeipB9fdkKPwoA"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_T7R2QVekEeipB9fdkKPwoA" x="420" y="620" width="741" height="241"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_Z0h2sFemEeipB9fdkKPwoA" type="Node_Shape" fontName="Segoe UI" fontHeight="14" bold="true">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_bwraUFemEeipB9fdkKPwoA" source="PapyrusCSSForceValue">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_bwraUVemEeipB9fdkKPwoA" key="italic" value="true"/>
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_bwraUlemEeipB9fdkKPwoA" key="fontColor" value="true"/>
+    </eAnnotations>
+    <children xmi:type="notation:DecorationNode" xmi:id="_Z0jE0FemEeipB9fdkKPwoA" type="Node_NameLabel"/>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_Z0jE0VemEeipB9fdkKPwoA" type="Node_NestedNodeCompartment">
+      <children xmi:type="notation:Shape" xmi:id="_yQUasFenEeipB9fdkKPwoA" type="Artifact_Shape_CCN" fontName="Segoe UI" bold="true">
+        <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_5Zzl5FenEeipB9fdkKPwoA" source="PapyrusCSSForceValue">
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_5Zzl5VenEeipB9fdkKPwoA" key="fontHeight" value="true"/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_5Z0M9FenEeipB9fdkKPwoA" key="italic" value="true"/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_5Z00AlenEeipB9fdkKPwoA" key="fontColor" value="true"/>
+        </eAnnotations>
+        <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_6rrW0Fg-EeipB9fdkKPwoA" source="PapyrusHyperLink_Document">
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_6rrW0Vg-EeipB9fdkKPwoA" key="tooltip_text" value="E:\Projetos_Pessoais\Papyrus_Projects\IsoPad-EmbeddedLinux\Configurations.di"/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_6rrW0lg-EeipB9fdkKPwoA" key="localization" value="IsoPad-EmbeddedLinux/Configurations.di"/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_6rrW01g-EeipB9fdkKPwoA" key="is_default_navigation" value="true"/>
+        </eAnnotations>
+        <children xmi:type="notation:DecorationNode" xmi:id="_yQUaslenEeipB9fdkKPwoA" type="Artifact_NameLabel_CCN"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_yQUas1enEeipB9fdkKPwoA" type="Artifact_FloatingNameLabel_CCN">
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_yQUatFenEeipB9fdkKPwoA" x="25"/>
+        </children>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_yQUatVenEeipB9fdkKPwoA" type="Artifact_NestedArtifactCompartment_CCN">
+          <styles xmi:type="notation:TitleStyle" xmi:id="_yQVBwFenEeipB9fdkKPwoA"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_yQVBwVenEeipB9fdkKPwoA"/>
+        </children>
+        <element xmi:type="uml:Artifact" href="IsoPad-EmbeddedLinux.uml#_yQNF8FenEeipB9fdkKPwoA"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_yQUasVenEeipB9fdkKPwoA" x="15" y="28"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_3vfjsFeoEeipB9fdkKPwoA" type="Artifact_Shape_CCN" fontName="Segoe UI" bold="true">
+        <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_HAYT0FepEeipB9fdkKPwoA" source="PapyrusCSSForceValue">
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_HAYT0VepEeipB9fdkKPwoA" key="fontHeight" value="true"/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_HAYT0lepEeipB9fdkKPwoA" key="italic" value="true"/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_HAYT01epEeipB9fdkKPwoA" key="fontColor" value="true"/>
+        </eAnnotations>
+        <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_40vDUFg-EeipB9fdkKPwoA" source="PapyrusHyperLink_Document">
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_40vDUVg-EeipB9fdkKPwoA" key="tooltip_text" value="E:\Projetos_Pessoais\Papyrus_Projects\IsoPad-EmbeddedLinux\BaseProgram.di"/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_40vDUlg-EeipB9fdkKPwoA" key="localization" value="IsoPad-EmbeddedLinux/BaseProgram.di"/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_40vDU1g-EeipB9fdkKPwoA" key="is_default_navigation" value="true"/>
+        </eAnnotations>
+        <children xmi:type="notation:DecorationNode" xmi:id="_3vgKwFeoEeipB9fdkKPwoA" type="Artifact_NameLabel_CCN"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_3vgKwVeoEeipB9fdkKPwoA" type="Artifact_FloatingNameLabel_CCN">
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_3vgKwleoEeipB9fdkKPwoA" x="25"/>
+        </children>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_3vgKw1eoEeipB9fdkKPwoA" type="Artifact_NestedArtifactCompartment_CCN">
+          <styles xmi:type="notation:TitleStyle" xmi:id="_3vgKxFeoEeipB9fdkKPwoA"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_3vgKxVeoEeipB9fdkKPwoA"/>
+        </children>
+        <element xmi:type="uml:Artifact" href="IsoPad-EmbeddedLinux.uml#_3vaEIFeoEeipB9fdkKPwoA"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_3vfjsVeoEeipB9fdkKPwoA" x="455" y="108"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_6K7rYFeoEeipB9fdkKPwoA" type="Artifact_Shape_CCN" fontName="Segoe UI" bold="true">
+        <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_Fl-yYlepEeipB9fdkKPwoA" source="PapyrusCSSForceValue">
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_Fl-yY1epEeipB9fdkKPwoA" key="fontHeight" value="true"/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_Fl_ZcVepEeipB9fdkKPwoA" key="italic" value="true"/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_FmAAgFepEeipB9fdkKPwoA" key="fontColor" value="true"/>
+        </eAnnotations>
+        <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_-MJM4Fg-EeipB9fdkKPwoA" source="PapyrusHyperLink_Document">
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_-MJM4Vg-EeipB9fdkKPwoA" key="tooltip_text" value="E:\Projetos_Pessoais\Papyrus_Projects\IsoPad-EmbeddedLinux\IsoSpread.di"/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_-MJM4lg-EeipB9fdkKPwoA" key="localization" value="IsoPad-EmbeddedLinux/IsoSpread.di"/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_-MJM41g-EeipB9fdkKPwoA" key="is_default_navigation" value="true"/>
+        </eAnnotations>
+        <children xmi:type="notation:DecorationNode" xmi:id="_6K8ScFeoEeipB9fdkKPwoA" type="Artifact_NameLabel_CCN"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_6K8ScVeoEeipB9fdkKPwoA" type="Artifact_FloatingNameLabel_CCN">
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_6K8ScleoEeipB9fdkKPwoA" x="25"/>
+        </children>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_6K8Sc1eoEeipB9fdkKPwoA" type="Artifact_NestedArtifactCompartment_CCN">
+          <styles xmi:type="notation:TitleStyle" xmi:id="_6K8SdFeoEeipB9fdkKPwoA"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6K8SdVeoEeipB9fdkKPwoA"/>
+        </children>
+        <element xmi:type="uml:Artifact" href="IsoPad-EmbeddedLinux.uml#_6K2L0FeoEeipB9fdkKPwoA"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6K7rYVeoEeipB9fdkKPwoA" x="335" y="28"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_7JWbcFeoEeipB9fdkKPwoA" type="Artifact_Shape_CCN" fontName="Segoe UI" bold="true">
+        <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_Fl-yYFepEeipB9fdkKPwoA" source="PapyrusCSSForceValue">
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_Fl-yYVepEeipB9fdkKPwoA" key="fontHeight" value="true"/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_Fl_ZcFepEeipB9fdkKPwoA" key="italic" value="true"/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_Fl_Zc1epEeipB9fdkKPwoA" key="fontColor" value="true"/>
+        </eAnnotations>
+        <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_8dgg0Fg-EeipB9fdkKPwoA" source="PapyrusHyperLink_Document">
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_8dgg0Vg-EeipB9fdkKPwoA" key="tooltip_text" value="E:\Projetos_Pessoais\Papyrus_Projects\IsoPad-EmbeddedLinux\IsoSpray.di"/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_8dgg0lg-EeipB9fdkKPwoA" key="localization" value="IsoPad-EmbeddedLinux/IsoSpray.di"/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_8dgg01g-EeipB9fdkKPwoA" key="is_default_navigation" value="true"/>
+        </eAnnotations>
+        <children xmi:type="notation:DecorationNode" xmi:id="_7JXCgFeoEeipB9fdkKPwoA" type="Artifact_NameLabel_CCN"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_7JXCgVeoEeipB9fdkKPwoA" type="Artifact_FloatingNameLabel_CCN">
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_7JXCgleoEeipB9fdkKPwoA" x="25"/>
+        </children>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_7JXCg1eoEeipB9fdkKPwoA" type="Artifact_NestedArtifactCompartment_CCN">
+          <styles xmi:type="notation:TitleStyle" xmi:id="_7JXChFeoEeipB9fdkKPwoA"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_7JXChVeoEeipB9fdkKPwoA"/>
+        </children>
+        <element xmi:type="uml:Artifact" href="IsoPad-EmbeddedLinux.uml#_7JPGsFeoEeipB9fdkKPwoA"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_7JWbcVeoEeipB9fdkKPwoA" x="175" y="28"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_8GagoFeoEeipB9fdkKPwoA" type="Artifact_Shape_CCN" fontName="Segoe UI" bold="true">
+        <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_Fl-yZFepEeipB9fdkKPwoA" source="PapyrusCSSForceValue">
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_Fl-yZVepEeipB9fdkKPwoA" key="fontHeight" value="true"/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_Fl_ZclepEeipB9fdkKPwoA" key="italic" value="true"/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_FmAAgVepEeipB9fdkKPwoA" key="fontColor" value="true"/>
+        </eAnnotations>
+        <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_AGvRUFg_EeipB9fdkKPwoA" source="PapyrusHyperLink_Document">
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_AGvRUVg_EeipB9fdkKPwoA" key="tooltip_text" value="E:\Projetos_Pessoais\Papyrus_Projects\IsoPad-EmbeddedLinux\IsoSeed.di"/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_AGvRUlg_EeipB9fdkKPwoA" key="localization" value="IsoPad-EmbeddedLinux/IsoSeed.di"/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_AGvRU1g_EeipB9fdkKPwoA" key="is_default_navigation" value="true"/>
+        </eAnnotations>
+        <children xmi:type="notation:DecorationNode" xmi:id="_8GagoleoEeipB9fdkKPwoA" type="Artifact_NameLabel_CCN"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_8Gago1eoEeipB9fdkKPwoA" type="Artifact_FloatingNameLabel_CCN">
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_8GagpFeoEeipB9fdkKPwoA" x="25"/>
+        </children>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_8GagpVeoEeipB9fdkKPwoA" type="Artifact_NestedArtifactCompartment_CCN">
+          <styles xmi:type="notation:TitleStyle" xmi:id="_8GagpleoEeipB9fdkKPwoA"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_8Gagp1eoEeipB9fdkKPwoA"/>
+        </children>
+        <element xmi:type="uml:Artifact" href="IsoPad-EmbeddedLinux.uml#_8GR9wFeoEeipB9fdkKPwoA"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_8GagoVeoEeipB9fdkKPwoA" x="495" y="28"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_Wq-kcFepEeipB9fdkKPwoA" type="Artifact_Shape_CCN" fontName="Segoe UI" bold="true">
+        <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_YGvX0FepEeipB9fdkKPwoA" source="PapyrusCSSForceValue">
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_YGv-4FepEeipB9fdkKPwoA" key="fontHeight" value="true"/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_YGv-4VepEeipB9fdkKPwoA" key="italic" value="true"/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_YGv-4lepEeipB9fdkKPwoA" key="fontColor" value="true"/>
+        </eAnnotations>
+        <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_B0Ye4Fg_EeipB9fdkKPwoA" source="PapyrusHyperLink_Document">
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_B0Ye4Vg_EeipB9fdkKPwoA" key="tooltip_text" value="E:\Projetos_Pessoais\Papyrus_Projects\IsoPad-EmbeddedLinux\IsoCrop.di"/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_B0Ye4lg_EeipB9fdkKPwoA" key="localization" value="IsoPad-EmbeddedLinux/IsoCrop.di"/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_B0Ye41g_EeipB9fdkKPwoA" key="is_default_navigation" value="true"/>
+        </eAnnotations>
+        <children xmi:type="notation:DecorationNode" xmi:id="_Wq-kclepEeipB9fdkKPwoA" type="Artifact_NameLabel_CCN"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_Wq-kc1epEeipB9fdkKPwoA" type="Artifact_FloatingNameLabel_CCN">
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_Wq-kdFepEeipB9fdkKPwoA" x="25"/>
+        </children>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_Wq-kdVepEeipB9fdkKPwoA" type="Artifact_NestedArtifactCompartment_CCN">
+          <styles xmi:type="notation:TitleStyle" xmi:id="_Wq-kdlepEeipB9fdkKPwoA"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Wq-kd1epEeipB9fdkKPwoA"/>
+        </children>
+        <element xmi:type="uml:Artifact" href="IsoPad-EmbeddedLinux.uml#_Wq2ooFepEeipB9fdkKPwoA"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Wq-kcVepEeipB9fdkKPwoA" x="655" y="28"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_Z0jE0lemEeipB9fdkKPwoA"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Z0jE01emEeipB9fdkKPwoA"/>
+    </children>
+    <element xmi:type="uml:Node" href="IsoPad-EmbeddedLinux.uml#_Z0facFemEeipB9fdkKPwoA"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Z0h2sVemEeipB9fdkKPwoA" x="240" y="80" width="1161" height="241"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_6LWNAFemEeipB9fdkKPwoA" type="Node_Shape" fontName="Segoe UI" fontHeight="14" bold="true">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_7wC58FemEeipB9fdkKPwoA" source="PapyrusCSSForceValue">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_7wC58VemEeipB9fdkKPwoA" key="italic" value="true"/>
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_7wC58lemEeipB9fdkKPwoA" key="fontColor" value="true"/>
+    </eAnnotations>
+    <children xmi:type="notation:DecorationNode" xmi:id="_6LW0EFemEeipB9fdkKPwoA" type="Node_NameLabel"/>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_6LW0EVemEeipB9fdkKPwoA" type="Node_NestedNodeCompartment">
+      <children xmi:type="notation:Shape" xmi:id="_ufIWIFepEeipB9fdkKPwoA" type="Artifact_Shape_CCN" fontName="Segoe UI" bold="true">
+        <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_Fas6AleqEeipB9fdkKPwoA" source="PapyrusCSSForceValue">
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_FathEFeqEeipB9fdkKPwoA" key="fontHeight" value="true"/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_FauII1eqEeipB9fdkKPwoA" key="italic" value="true"/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_FauvM1eqEeipB9fdkKPwoA" key="fontColor" value="true"/>
+        </eAnnotations>
+        <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_Ypm_oFg-EeipB9fdkKPwoA" source="PapyrusHyperLink_Document">
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_Ypm_oVg-EeipB9fdkKPwoA" key="tooltip_text" value="E:\Projetos_Pessoais\Papyrus_Projects\Libraries\Connectivity.di"/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_Ypm_olg-EeipB9fdkKPwoA" key="localization" value="Libraries/Connectivity.di"/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_Ypm_o1g-EeipB9fdkKPwoA" key="is_default_navigation" value="true"/>
+        </eAnnotations>
+        <children xmi:type="notation:DecorationNode" xmi:id="_ufI9MFepEeipB9fdkKPwoA" type="Artifact_NameLabel_CCN"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_ufI9MVepEeipB9fdkKPwoA" type="Artifact_FloatingNameLabel_CCN">
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_ufI9MlepEeipB9fdkKPwoA" x="25"/>
+        </children>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_ufI9M1epEeipB9fdkKPwoA" type="Artifact_NestedArtifactCompartment_CCN">
+          <styles xmi:type="notation:TitleStyle" xmi:id="_ufI9NFepEeipB9fdkKPwoA"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ufI9NVepEeipB9fdkKPwoA"/>
+        </children>
+        <element xmi:type="uml:Artifact" href="IsoPad-EmbeddedLinux.uml#_ufBBYFepEeipB9fdkKPwoA"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ufIWIVepEeipB9fdkKPwoA" x="15" y="88"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_zebhsFepEeipB9fdkKPwoA" type="Artifact_Shape_CCN" fontName="Segoe UI" bold="true">
+        <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_FathEVeqEeipB9fdkKPwoA" source="PapyrusCSSForceValue">
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_FathEleqEeipB9fdkKPwoA" key="fontHeight" value="true"/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_FauIJFeqEeipB9fdkKPwoA" key="italic" value="true"/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_FauvNFeqEeipB9fdkKPwoA" key="fontColor" value="true"/>
+        </eAnnotations>
+        <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_UlS1oFg-EeipB9fdkKPwoA" source="PapyrusHyperLink_Document">
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_UlS1oVg-EeipB9fdkKPwoA" key="tooltip_text" value="E:\Projetos_Pessoais\Papyrus_Projects\Libraries\ECU.di"/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_UlS1olg-EeipB9fdkKPwoA" key="localization" value="Libraries/ECU.di"/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_UlS1o1g-EeipB9fdkKPwoA" key="is_default_navigation" value="true"/>
+        </eAnnotations>
+        <children xmi:type="notation:DecorationNode" xmi:id="_zecIwFepEeipB9fdkKPwoA" type="Artifact_NameLabel_CCN"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_zecIwVepEeipB9fdkKPwoA" type="Artifact_FloatingNameLabel_CCN">
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_zecIwlepEeipB9fdkKPwoA" x="25"/>
+        </children>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_zecIw1epEeipB9fdkKPwoA" type="Artifact_NestedArtifactCompartment_CCN">
+          <styles xmi:type="notation:TitleStyle" xmi:id="_zecIxFepEeipB9fdkKPwoA"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zecIxVepEeipB9fdkKPwoA"/>
+        </children>
+        <element xmi:type="uml:Artifact" href="IsoPad-EmbeddedLinux.uml#_zeU0AFepEeipB9fdkKPwoA"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zebhsVepEeipB9fdkKPwoA" x="175" y="88"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_11MkwFepEeipB9fdkKPwoA" type="Artifact_Shape_CCN" fontName="Segoe UI" bold="true">
+        <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_FathE1eqEeipB9fdkKPwoA" source="PapyrusCSSForceValue">
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_FathFFeqEeipB9fdkKPwoA" key="fontHeight" value="true"/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_FauIJVeqEeipB9fdkKPwoA" key="italic" value="true"/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_FauvNVeqEeipB9fdkKPwoA" key="fontColor" value="true"/>
+        </eAnnotations>
+        <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_SmCToFg-EeipB9fdkKPwoA" source="PapyrusHyperLink_Document">
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_SmCToVg-EeipB9fdkKPwoA" key="tooltip_text" value="E:\Projetos_Pessoais\Papyrus_Projects\Libraries\Filters.di"/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_SmCTolg-EeipB9fdkKPwoA" key="localization" value="Libraries/Filters.di"/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_SmCTo1g-EeipB9fdkKPwoA" key="is_default_navigation" value="true"/>
+        </eAnnotations>
+        <children xmi:type="notation:DecorationNode" xmi:id="_11MkwlepEeipB9fdkKPwoA" type="Artifact_NameLabel_CCN"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_11Mkw1epEeipB9fdkKPwoA" type="Artifact_FloatingNameLabel_CCN">
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_11MkxFepEeipB9fdkKPwoA" x="25"/>
+        </children>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_11MkxVepEeipB9fdkKPwoA" type="Artifact_NestedArtifactCompartment_CCN">
+          <styles xmi:type="notation:TitleStyle" xmi:id="_11MkxlepEeipB9fdkKPwoA"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_11Mkx1epEeipB9fdkKPwoA"/>
+        </children>
+        <element xmi:type="uml:Artifact" href="IsoPad-EmbeddedLinux.uml#_11Eo8FepEeipB9fdkKPwoA"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_11MkwVepEeipB9fdkKPwoA" x="335" y="88"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_4mFYAFepEeipB9fdkKPwoA" type="Artifact_Shape_CCN" fontName="Segoe UI" bold="true">
+        <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_FathFVeqEeipB9fdkKPwoA" source="PapyrusCSSForceValue">
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_FathFleqEeipB9fdkKPwoA" key="fontHeight" value="true"/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_FauvMFeqEeipB9fdkKPwoA" key="italic" value="true"/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_FauvNleqEeipB9fdkKPwoA" key="fontColor" value="true"/>
+        </eAnnotations>
+        <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_PUr3oFg-EeipB9fdkKPwoA" source="PapyrusHyperLink_Document">
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_PUr3oVg-EeipB9fdkKPwoA" key="tooltip_text" value="E:\Projetos_Pessoais\Papyrus_Projects\Libraries\GUI.di"/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_PUr3olg-EeipB9fdkKPwoA" key="localization" value="Libraries/GUI.di"/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_PUr3o1g-EeipB9fdkKPwoA" key="is_default_navigation" value="true"/>
+        </eAnnotations>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4mFYAlepEeipB9fdkKPwoA" type="Artifact_NameLabel_CCN"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4mFYA1epEeipB9fdkKPwoA" type="Artifact_FloatingNameLabel_CCN">
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4mFYBFepEeipB9fdkKPwoA" x="25"/>
+        </children>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_4mFYBVepEeipB9fdkKPwoA" type="Artifact_NestedArtifactCompartment_CCN">
+          <styles xmi:type="notation:TitleStyle" xmi:id="_4mFYBlepEeipB9fdkKPwoA"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4mFYB1epEeipB9fdkKPwoA"/>
+        </children>
+        <element xmi:type="uml:Artifact" href="IsoPad-EmbeddedLinux.uml#_4l8OEFepEeipB9fdkKPwoA"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4mFYAVepEeipB9fdkKPwoA" x="495" y="88"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_ABtcEFeqEeipB9fdkKPwoA" type="Artifact_Shape_CCN" fontName="Segoe UI" bold="true">
+        <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_FauIIFeqEeipB9fdkKPwoA" source="PapyrusCSSForceValue">
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_FauIIVeqEeipB9fdkKPwoA" key="fontHeight" value="true"/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_FauvMVeqEeipB9fdkKPwoA" key="italic" value="true"/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_FauvN1eqEeipB9fdkKPwoA" key="fontColor" value="true"/>
+        </eAnnotations>
+        <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_MwakEFg-EeipB9fdkKPwoA" source="PapyrusHyperLink_Document">
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_MwakEVg-EeipB9fdkKPwoA" key="tooltip_text" value="E:\Projetos_Pessoais\Papyrus_Projects\Libraries\Protocols.di"/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_MwakElg-EeipB9fdkKPwoA" key="localization" value="Libraries/Protocols.di"/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_MwakE1g-EeipB9fdkKPwoA" key="is_default_navigation" value="true"/>
+        </eAnnotations>
+        <children xmi:type="notation:DecorationNode" xmi:id="_ABtcEleqEeipB9fdkKPwoA" type="Artifact_NameLabel_CCN"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_ABtcE1eqEeipB9fdkKPwoA" type="Artifact_FloatingNameLabel_CCN">
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_ABtcFFeqEeipB9fdkKPwoA" x="25"/>
+        </children>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_ABtcFVeqEeipB9fdkKPwoA" type="Artifact_NestedArtifactCompartment_CCN">
+          <styles xmi:type="notation:TitleStyle" xmi:id="_ABtcFleqEeipB9fdkKPwoA"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ABtcF1eqEeipB9fdkKPwoA"/>
+        </children>
+        <element xmi:type="uml:Artifact" href="IsoPad-EmbeddedLinux.uml#_ABk5MFeqEeipB9fdkKPwoA"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ABtcEVeqEeipB9fdkKPwoA" x="655" y="88"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_DVXlMFeqEeipB9fdkKPwoA" type="Artifact_Shape_CCN" fontName="Segoe UI" bold="true">
+        <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_Fas6AFeqEeipB9fdkKPwoA" source="PapyrusCSSForceValue">
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_Fas6AVeqEeipB9fdkKPwoA" key="fontHeight" value="true"/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_FauIIleqEeipB9fdkKPwoA" key="italic" value="true"/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_FauvMleqEeipB9fdkKPwoA" key="fontColor" value="true"/>
+        </eAnnotations>
+        <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_cD58QFg-EeipB9fdkKPwoA" source="PapyrusHyperLink_Document">
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_cD58QVg-EeipB9fdkKPwoA" key="tooltip_text" value="E:\Projetos_Pessoais\Papyrus_Projects\Libraries\Simulation.di"/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_cD58Qlg-EeipB9fdkKPwoA" key="localization" value="Libraries/Simulation.di"/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_cD58Q1g-EeipB9fdkKPwoA" key="is_default_navigation" value="true"/>
+        </eAnnotations>
+        <children xmi:type="notation:DecorationNode" xmi:id="_DVXlMleqEeipB9fdkKPwoA" type="Artifact_NameLabel_CCN"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_DVXlM1eqEeipB9fdkKPwoA" type="Artifact_FloatingNameLabel_CCN">
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_DVXlNFeqEeipB9fdkKPwoA" x="25"/>
+        </children>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_DVXlNVeqEeipB9fdkKPwoA" type="Artifact_NestedArtifactCompartment_CCN">
+          <styles xmi:type="notation:TitleStyle" xmi:id="_DVXlNleqEeipB9fdkKPwoA"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_DVXlN1eqEeipB9fdkKPwoA"/>
+        </children>
+        <element xmi:type="uml:Artifact" href="IsoPad-EmbeddedLinux.uml#_DVN0MFeqEeipB9fdkKPwoA"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_DVXlMVeqEeipB9fdkKPwoA" x="15" y="8"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_H2WPEFhEEeipB9fdkKPwoA" type="Artifact_Shape_CCN" fontName="Segoe UI" bold="true">
+        <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_MXb0pFhEEeipB9fdkKPwoA" source="PapyrusCSSForceValue">
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_MXb0pVhEEeipB9fdkKPwoA" key="fontHeight" value="true"/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_MXcbslhEEeipB9fdkKPwoA" key="italic" value="true"/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_MXcbtVhEEeipB9fdkKPwoA" key="fontColor" value="true"/>
+        </eAnnotations>
+        <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_Pp_KgFhEEeipB9fdkKPwoA" source="PapyrusHyperLink_Document">
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_Pp_KgVhEEeipB9fdkKPwoA" key="tooltip_text" value="E:\Projetos_Pessoais\Papyrus_Projects\Libraries\Algorithms.di"/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_Pp_KglhEEeipB9fdkKPwoA" key="localization" value="Libraries/Algorithms.di"/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_Pp_Kg1hEEeipB9fdkKPwoA" key="is_default_navigation" value="true"/>
+        </eAnnotations>
+        <children xmi:type="notation:DecorationNode" xmi:id="_H2W2IFhEEeipB9fdkKPwoA" type="Artifact_NameLabel_CCN"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_H2W2IVhEEeipB9fdkKPwoA" type="Artifact_FloatingNameLabel_CCN">
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_H2W2IlhEEeipB9fdkKPwoA" x="25"/>
+        </children>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_H2W2I1hEEeipB9fdkKPwoA" type="Artifact_NestedArtifactCompartment_CCN">
+          <styles xmi:type="notation:TitleStyle" xmi:id="_H2W2JFhEEeipB9fdkKPwoA"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_H2W2JVhEEeipB9fdkKPwoA"/>
+        </children>
+        <element xmi:type="uml:Artifact" href="IsoPad-EmbeddedLinux.uml#_H2MeEFhEEeipB9fdkKPwoA"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_H2WPEVhEEeipB9fdkKPwoA" x="175" y="8"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_JQgf8FhEEeipB9fdkKPwoA" type="Artifact_Shape_CCN" fontName="Segoe UI" bold="true">
+        <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_MXb0olhEEeipB9fdkKPwoA" source="PapyrusCSSForceValue">
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_MXb0o1hEEeipB9fdkKPwoA" key="fontHeight" value="true"/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_MXcbsVhEEeipB9fdkKPwoA" key="italic" value="true"/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_MXcbtFhEEeipB9fdkKPwoA" key="fontColor" value="true"/>
+        </eAnnotations>
+        <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_TNRrEFhEEeipB9fdkKPwoA" source="PapyrusHyperLink_Document">
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_TNRrEVhEEeipB9fdkKPwoA" key="tooltip_text" value="E:\Projetos_Pessoais\Papyrus_Projects\Libraries\Files.di"/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_TNRrElhEEeipB9fdkKPwoA" key="localization" value="Libraries/Files.di"/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_TNRrE1hEEeipB9fdkKPwoA" key="is_default_navigation" value="true"/>
+        </eAnnotations>
+        <children xmi:type="notation:DecorationNode" xmi:id="_JQhHAFhEEeipB9fdkKPwoA" type="Artifact_NameLabel_CCN"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_JQhHAVhEEeipB9fdkKPwoA" type="Artifact_FloatingNameLabel_CCN">
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JQhHAlhEEeipB9fdkKPwoA" x="25"/>
+        </children>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_JQhHA1hEEeipB9fdkKPwoA" type="Artifact_NestedArtifactCompartment_CCN">
+          <styles xmi:type="notation:TitleStyle" xmi:id="_JQhHBFhEEeipB9fdkKPwoA"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_JQhHBVhEEeipB9fdkKPwoA"/>
+        </children>
+        <element xmi:type="uml:Artifact" href="IsoPad-EmbeddedLinux.uml#_JQYkIFhEEeipB9fdkKPwoA"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_JQgf8VhEEeipB9fdkKPwoA" x="335" y="8"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_Kpo2EFhEEeipB9fdkKPwoA" type="Artifact_Shape_CCN" fontName="Segoe UI" bold="true">
+        <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_MXb0oFhEEeipB9fdkKPwoA" source="PapyrusCSSForceValue">
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_MXb0oVhEEeipB9fdkKPwoA" key="fontHeight" value="true"/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_MXcbsFhEEeipB9fdkKPwoA" key="italic" value="true"/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_MXcbs1hEEeipB9fdkKPwoA" key="fontColor" value="true"/>
+        </eAnnotations>
+        <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_aWS8MFhEEeipB9fdkKPwoA" source="PapyrusHyperLink_Document">
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_aWS8MVhEEeipB9fdkKPwoA" key="tooltip_text" value="E:\Projetos_Pessoais\Papyrus_Projects\Libraries\Security.di"/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_aWS8MlhEEeipB9fdkKPwoA" key="localization" value="Libraries/Security.di"/>
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_aWS8M1hEEeipB9fdkKPwoA" key="is_default_navigation" value="true"/>
+        </eAnnotations>
+        <children xmi:type="notation:DecorationNode" xmi:id="_KppdIFhEEeipB9fdkKPwoA" type="Artifact_NameLabel_CCN"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_KppdIVhEEeipB9fdkKPwoA" type="Artifact_FloatingNameLabel_CCN">
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_KppdIlhEEeipB9fdkKPwoA" x="25"/>
+        </children>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_KppdI1hEEeipB9fdkKPwoA" type="Artifact_NestedArtifactCompartment_CCN">
+          <styles xmi:type="notation:TitleStyle" xmi:id="_KppdJFhEEeipB9fdkKPwoA"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KppdJVhEEeipB9fdkKPwoA"/>
+        </children>
+        <element xmi:type="uml:Artifact" href="IsoPad-EmbeddedLinux.uml#_KpgTMFhEEeipB9fdkKPwoA"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Kpo2EVhEEeipB9fdkKPwoA" x="495" y="8"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_6LW0ElemEeipB9fdkKPwoA"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6LW0E1emEeipB9fdkKPwoA"/>
+    </children>
+    <element xmi:type="uml:Node" href="IsoPad-EmbeddedLinux.uml#_6LUX0FemEeipB9fdkKPwoA"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6LWNAVemEeipB9fdkKPwoA" x="360" y="360" width="841" height="221"/>
+  </children>
+  <styles xmi:type="notation:StringValueStyle" xmi:id="_SuqSIVekEeipB9fdkKPwoA" name="diagram_compatibility_version" stringValue="1.4.0"/>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_SuqSIlekEeipB9fdkKPwoA"/>
+  <styles xmi:type="style:PapyrusDiagramStyle" xmi:id="_SuqSI1ekEeipB9fdkKPwoA" diagramKindId="org.eclipse.papyrus.uml.diagram.deployment">
+    <owner xmi:type="uml:Model" href="IsoPad-EmbeddedLinux.uml#_g7VQMFd4EeiYc8s90oKtBg"/>
+  </styles>
+  <element xmi:type="uml:Model" href="IsoPad-EmbeddedLinux.uml#_g7VQMFd4EeiYc8s90oKtBg"/>
+</notation:Diagram>
